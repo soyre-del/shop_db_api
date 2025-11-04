@@ -1,20 +1,17 @@
 # shop_db_api
 A Node.js + MySQL CRUD API for shop_db
-# Shop DB API
 
 ## Author
-**Laurence Ambo**  
+**Laurence A. Ambo**  
 Email: laurencesoyy@gmail.com  
 
 ## Class Info
-- Mode: Asynchronous (due to ongoing typhoon)  
-- Assignment: Node.js Backend CRUD API  
+Node.js Backend CRUD API  
 - Required Functionalities:
   - POST – Create new data entries
   - PUT – Update existing records
   - DELETE – Remove data entries
-- Class format:
-  - Morning classes: Group activity  
+- Class format:  
   - Afternoon classes: Individual activity  
 
 ---
